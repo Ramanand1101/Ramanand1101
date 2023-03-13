@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ramanand1101" alt="ramanand1101" /></a> </p>
 
-- 🔭 I had completed [Charles Tyrewhitt Clone](https://github.com/Ramanand1101/brisk-river-6836)
+- 🔭 I had completed <a href="https://github.com/Ramanand1101/brisk-river-6836">Charles Tyrewhitt Clone</a>
 
 - 🌱 Back to basic on **Javascript,HTML,CSS**
 
