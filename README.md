@@ -1,11 +1,14 @@
 <h1 align="center">Hi 👋, I'm Ramanand Tiwari</h1>
 <h3 align="center">A passionate FullStack Developer based in India</h3>
+<p align="center">
 <img alt="Coder GIF" height=250 width=350 src="https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580611624-TE64QGKRJG8SWAIUS7NS/ke17ZwdGBToddI8pDm48kPoswlzjSVMM-SxOp7CV59BZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZamWLI2zvYWH8K3-s_4yszcp2ryTI0HqTOaaUohrI8PI6FXy8c9PWtBlqAVlUS5izpdcIXDZqDYvprRqZ29Pw0o/coding-freak.gif" />
-
- <p align="left"> <img src="https://komarev.com/ghpvc/?username=Ramanand1101&label=Profile%20views&color=0e75b6&style=flat" alt="" /> </p>
+</p>
  <p align="center" color:"red">
           <img src="https://readme-typing-svg.demolab.com/?lines=hi! My self Ramanand Tiwari 🏽; I am a Full-stack%20Node%20developer 🏻‍💻; interested in Coding 🏃‍♂️♂️;Curious%20to%20learn%20new%20things !&font=Fira%20Code&center=true&width=440&height=45&color=#37bcf7&vCenter=true&size=22&pause=1000"></a>
       </p>
+
+ <p align="left"> <img src="https://komarev.com/ghpvc/?username=Ramanand1101&label=Profile%20views&color=0e75b6&style=flat" alt="" /> </p>
+
 
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ramanand1101" alt="ramanand1101" /></a> </p>
