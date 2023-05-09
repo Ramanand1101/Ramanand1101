@@ -52,6 +52,6 @@
 <h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="85px" marginBottom="4px"> </h2>
 <p align="left">
 <a href="https://www.linkedin.com/in/ramanand-tiwari/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ramanand-tiwari-926557198/" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/https://stackoverflow.com/users/21191391/ramanand-tiwari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/21191391/ramanand-tiwari" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/21191391/ramanand-tiwari"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/21191391/ramanand-tiwari" height="30" width="40" /></a>
 </p>
 
