@@ -1,33 +1,57 @@
 <h1 align="center">Hi 👋, I'm Ramanand Tiwari</h1>
-<h3 align="center">A passionate backend developer from India</h3>
+<h3 align="center">A passionate FullStack Developer based in India</h3>
+<img width="100%" height="450" align="right" alt="Github" src="https://camo.githubusercontent.com/bb27b9c1df90df738e91a54665d3adb08f60583fad2f266ffbde14508e6dc918/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f65342f32362f37302f65343236373032656466383734623138316163656431653266613563366364652e676966" />
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ramanand1101&label=Profile%20views&color=0e75b6&style=flat" alt="ramanand1101" /> </p>
+ <p align="left"> <img src="https://komarev.com/ghpvc/?username=Ramanand1101&label=Profile%20views&color=0e75b6&style=flat" alt="" /> </p>
+ <p align="center" color:"red">
+          <img src="https://readme-typing-svg.demolab.com/?lines=hi! My self Ramanand Tiwari 🏽; I am a Full-stack%20Node%20developer 🏻‍💻; interested in Coding 🏃‍♂️♂️;Curious%20to%20learn%20new%20things !&font=Fira%20Code&center=true&width=440&height=45&color=#37bcf7&vCenter=true&size=22&pause=1000"></a>
+      </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ramanand1101&label=Profile%20views&color=0e75b6&style=flat" alt="Ramanand1101" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ramanand1101" alt="ramanand1101" /></a> </p>
 
-- 🔭 I had completed <a href="https://github.com/Ramanand1101/brisk-river-6836">Charles Tyrewhitt Clone</a>
+## About me:-
+ 
 
-- 🌱 Back to basic on **Javascript,HTML,CSS**
+- 🔭 I’m currently working on **FullStack Development**
 
-- 👯 I’m looking to collaborate on **content creator**
+- 💬 Ask me about **HTML , CSS , NodeJs , Express , MongoDB , DSA , JavaScript**
+
+- 🌱 I’m currently learning **NodeJs , DSA**
+
+- 👯 I’m looking to collaborate on **New Projects**
+
+- 👨‍💻 All of my projects are available at [https://ramanand1101.github.io/](https://ramanand1101.github.io/)
 
 - 📫 How to reach me **rntiwari383@gmail.com**
 
-- 📄 Know about my experiences <a href="https://drive.google.com/file/d/14OnkThmJmF0ue5HPSQQnq133XPq0T8cw/view?usp=share_link
-">Resume</a> 
-- ⚡ Fun fact **I love to play Cricket and listen music**
 
-<h3 align="left">Connect with me:</h3>
+
+<p align="left">
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p >
+    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html5" />
+    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css3" /> 
+    <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="javascript" />
+    <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="nodejs" />
+    <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="expressjs" />
+    <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="mongodb" />
+    <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" alt="npm" />
+    <img src="https://img.shields.io/badge/Git-f44d27?style=for-the-badge&logo=git&logoColor=white" alt="git" />
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="github" />
+  
+</p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ramanand1101&show_icons=true&locale=en&layout=compact" alt="ramanandtiwari" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ramanand1101&show_icons=true&locale=en" alt="ramanandtiwari" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ramanand1101&" alt="ramanandtiwari" /></p>
+
+<h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="85px" marginBottom="4px"> </h2>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/ramanand-tiwari-926557198/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/ramanand-tiwari-926557198/" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/https://stackoverflow.com/users/21191391/ramanand-tiwari" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="https://stackoverflow.com/users/21191391/ramanand-tiwari" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ramanand1101&show_icons=true&locale=en&layout=compact" alt="ramanand1101" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ramanand1101&show_icons=true&locale=en" alt="ramanand1101" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ramanand1101&" alt="ramanand1101" /></p>
