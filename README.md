@@ -6,7 +6,7 @@
  <p align="center" color:"red">
           <img src="https://readme-typing-svg.demolab.com/?lines=hi! My self Ramanand Tiwari 🏽; I am a Full-stack%20Node%20developer 🏻‍💻; interested in Coding 🏃‍♂️♂️;Curious%20to%20learn%20new%20things !&font=Fira%20Code&center=true&width=440&height=45&color=#37bcf7&vCenter=true&size=22&pause=1000"></a>
       </p>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ramanand1101&label=Profile%20views&color=0e75b6&style=flat" alt="Ramanand1101" /> </p>
+
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ramanand1101" alt="ramanand1101" /></a> </p>
 
