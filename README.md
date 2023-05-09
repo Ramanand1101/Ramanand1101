@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ramanand Tiwari</h1>
 <h3 align="center">A passionate FullStack Developer based in India</h3>
-<img width="100%" height="450" align="right" alt="Github" src="https://camo.githubusercontent.com/bb27b9c1df90df738e91a54665d3adb08f60583fad2f266ffbde14508e6dc918/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f65342f32362f37302f65343236373032656466383734623138316163656431653266613563366364652e676966" />
+<img alt="Coder GIF" height=250 width=350 src="https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580611624-TE64QGKRJG8SWAIUS7NS/ke17ZwdGBToddI8pDm48kPoswlzjSVMM-SxOp7CV59BZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZamWLI2zvYWH8K3-s_4yszcp2ryTI0HqTOaaUohrI8PI6FXy8c9PWtBlqAVlUS5izpdcIXDZqDYvprRqZ29Pw0o/coding-freak.gif" />
 
  <p align="left"> <img src="https://komarev.com/ghpvc/?username=Ramanand1101&label=Profile%20views&color=0e75b6&style=flat" alt="" /> </p>
  <p align="center" color:"red">
