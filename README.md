@@ -24,7 +24,7 @@
 
 - 👯 I’m looking to collaborate on **New Projects**
 
-- 👨‍💻 All of my projects are available at (https://ramanand1101.github.io/](https://ramanand1101.github.io/)
+- 👨‍💻 All of my projects are available at (https://ramanand1101.github.io/)
 
 - 📫 How to reach me **rntiwari383@gmail.com**
 
