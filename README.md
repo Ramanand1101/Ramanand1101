@@ -24,7 +24,7 @@
 
 - 👯 I’m looking to collaborate on **New Projects**
 
-- 💬 This is my <a href="https://ramanand1101.github.io/">Portfolio</a>
+- 🎓 Portfolio **https://ramanand1101.github.io/**
 
 - 📫 How to reach me **rntiwari383@gmail.com**
 
